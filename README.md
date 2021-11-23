@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kamiyabansal
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning B.tech
-- 💞️ I’m looking to collaborate on engineer
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kbansal2700@gmail.com
 
 <!---

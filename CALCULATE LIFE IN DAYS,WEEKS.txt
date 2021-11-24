@@ -1,0 +1,12 @@
+#ASSUMING MAXIMUM AGE IS 90
+age=input("WHAT IS YOU AGE:")
+age_in_num=int(age)
+age_left=90 - age_in_num
+months=age_left*12
+print(months)
+
+weeks=age_left*52
+print(weeks)
+days=age_left*365
+print(days)
+print(f"months left{months},weeks left{weeks},days left{days}")

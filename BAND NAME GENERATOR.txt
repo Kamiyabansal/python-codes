@@ -1,0 +1,10 @@
+#DON'T FORGET TO GIVE STAR :)
+print("Hi there! Are you confused with ur band name? We are here to help")
+
+city = input("Enter your city you grew up in: \n ")
+
+pet = input("Enter your pet's name: \n ")
+
+final_name = city + " "+pet
+
+print("Congratulations! Your new band name is "+ final_name)

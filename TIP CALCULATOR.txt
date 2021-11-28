@@ -1,0 +1,8 @@
+#TIP CALCULATOR
+print("WELCOME TO THE TIP CALCULATOR")
+bill = float(input("WHAT WAS THE TOTAL BILL? $"))
+tip=float(input("WHAT PERCENTAGE BILL YOU WOULD LIKE TO GIVE? "))
+NO_OF_PEOPLE=int(input("Hoe many people have to split the bill: "))
+money=bill+tip
+money_each=money/NO_OF_PEOPLE
+print(f"Each one has to pay{money_each}")

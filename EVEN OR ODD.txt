@@ -1,0 +1,6 @@
+#CHECK IF THE NUMBER IS EVEN OR ODD
+number=int(input("ENTER NUMBER:"))
+if (number%2==0):
+    print("NUMBER IS EVEN")
+else:
+    print("NUMBER IS ODD")

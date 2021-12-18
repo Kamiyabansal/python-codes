@@ -1,0 +1,4 @@
+birth_year=2001
+current_year=2022
+age=current_year-birth_year
+print(age)

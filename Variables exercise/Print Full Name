@@ -1,1 +1,4 @@
-
+first="KAMIYA"
+middle="BANSAL"
+last="KUMAR"
+print("My full name is: " + first + " " + middle + " " + last)

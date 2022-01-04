@@ -1,0 +1,6 @@
+word = input('Enter word ')
+print("Original String:", word)
+x = list(word)
+for i in x[4:]:
+    print(i)
+    print(x)

@@ -1,0 +1,10 @@
+import math
+ 
+def factorial(n):
+    return(math.factorial(n))
+ 
+ 
+# Driver Code
+num = int(input("number:"))
+print("Factorial of", num, "is",
+      factorial(num))    
